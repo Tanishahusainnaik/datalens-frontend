@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const API = "https://datalens-backend-ljqe.onrender.comhttps://datalens-backend-ljqe.onrender.com";
+const API = "https://datalens-backend-ljqe.onrender.com";
 
 /* ─── GLOBAL CSS ──────────────────────────────────────────── */
 const globalCSS = `
